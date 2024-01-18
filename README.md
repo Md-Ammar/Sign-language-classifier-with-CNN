@@ -31,11 +31,4 @@ Explore the codebase, delve into the model architecture, and witness the power o
 🌟 **Contributions:**
 Contributions and feedback are welcome! Feel free to fork the repository, experiment with the code, and share your insights.
 
-📌 **Note:**
-Please refer to the documentation for detailed information on the project structure, dependencies, and execution instructions.
-
-🔗 **Links:**
-- [Demo Video](#) (if available)
-- [Project Documentation](#) (if available)
-
 Let's empower technology to understand and interpret the richness of sign language! 🤟🤖
